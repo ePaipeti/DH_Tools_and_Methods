@@ -2,7 +2,7 @@
 Assignment 1
 
 
-# A Comparative Analysis of Nation Building 
+# A Comparative Analysis of Nation-Building 
 
 ### Description of the Project:
 
